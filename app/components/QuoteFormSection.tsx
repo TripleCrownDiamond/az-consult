@@ -8,7 +8,7 @@ export default function QuoteFormSection() {
           <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
             Obtenez un devis rapide.
             <br />
-            Contactez-nous dès aujourd'hui.
+            Contactez-nous dès aujourd&apos;hui.
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">
             Décrivez votre projet et nous vous recontacterons dans les plus brefs délais avec une proposition personnalisée.

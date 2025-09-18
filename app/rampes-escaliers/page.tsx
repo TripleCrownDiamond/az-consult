@@ -11,7 +11,7 @@ export default function RampesEscaliersPage() {
             Rampes & Escaliers Sur Mesure
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Nous concevons et fabriquons des rampes et escaliers uniques, alliant sécurité, fonctionnalité et esthétique, pour s'intégrer parfaitement à votre espace.
+            Nous concevons et fabriquons des rampes et escaliers uniques, alliant sécurité, fonctionnalité et esthétique, pour s&apos;intégrer parfaitement à votre espace.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -19,11 +19,11 @@ export default function RampesEscaliersPage() {
             <div className="flex flex-col justify-center">
               <h3 className="text-2xl font-bold tracking-tight text-gray-900">Design Personnalisé</h3>
               <p className="mt-4 text-lg leading-8 text-gray-600">
-                Chaque projet est une œuvre d'art. Nous travaillons avec vous pour créer des designs qui reflètent votre style et répondent à vos besoins spécifiques.
+                Chaque projet est une œuvre d&apos;art. Nous travaillons avec vous pour créer des designs qui reflètent votre style et répondent à vos besoins spécifiques.
               </p>
               <h3 className="mt-8 text-2xl font-bold tracking-tight text-gray-900">Matériaux de Qualité</h3>
               <p className="mt-4 text-lg leading-8 text-gray-600">
-                Utilisation de matériaux durables et esthétiques tels que l'acier inoxydable, le verre, le bois et l'aluminium pour une finition impeccable et une longévité assurée.
+                Utilisation de matériaux durables et esthétiques tels que l&apos;acier inoxydable, le verre, le bois et l&apos;aluminium pour une finition impeccable et une longévité assurée.
               </p>
             </div>
             <div className="relative aspect-w-16 aspect-h-9">

@@ -11,7 +11,7 @@ export default function DecoupeLaserPage() {
             Découpe Laser de Précision
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Grâce à notre technologie de découpe laser de pointe, nous réalisons des pièces métalliques d'une précision inégalée, adaptées à toutes vos exigences.
+            Grâce à notre technologie de découpe laser de pointe, nous réalisons des pièces métalliques d&apos;une précision inégalée, adaptées à toutes vos exigences.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -23,7 +23,7 @@ export default function DecoupeLaserPage() {
               </p>
               <h3 className="mt-8 text-2xl font-bold tracking-tight text-gray-900">Applications Variées</h3>
               <p className="mt-4 text-lg leading-8 text-gray-600">
-                De la fabrication de prototypes à la production en série, la découpe laser est idéale pour l'automobile, l'aéronautique, le bâtiment, et bien d'autres secteurs.
+                De la fabrication de prototypes à la production en série, la découpe laser est idéale pour l&apos;automobile, l&apos;aéronautique, le bâtiment, et bien d&apos;autres secteurs.
               </p>
             </div>
             <div className="relative aspect-w-16 aspect-h-9">

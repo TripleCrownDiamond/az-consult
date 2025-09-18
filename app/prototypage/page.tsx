@@ -11,7 +11,7 @@ export default function PrototypagePage() {
             Prototypage Rapide & Efficace
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            De l'idée au produit fini, nous vous accompagnons dans la création de prototypes fonctionnels pour valider vos concepts et accélérer votre mise sur le marché.
+            De l&apos;idée au produit fini, nous vous accompagnons dans la création de prototypes fonctionnels pour valider vos concepts et accélérer votre mise sur le marché.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -23,7 +23,7 @@ export default function PrototypagePage() {
               </p>
               <h3 className="mt-8 text-2xl font-bold tracking-tight text-gray-900">Fabrication Additive & Soustractive</h3>
               <p className="mt-4 text-lg leading-8 text-gray-600">
-                Que ce soit par impression 3D, usinage CNC ou d'autres techniques, nous choisissons la méthode la plus adaptée pour votre prototype.
+                Que ce soit par impression 3D, usinage CNC ou d&apos;autres techniques, nous choisissons la méthode la plus adaptée pour votre prototype.
               </p>
             </div>
             <div className="relative aspect-w-16 aspect-h-9">

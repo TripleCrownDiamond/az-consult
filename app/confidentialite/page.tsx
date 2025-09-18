@@ -17,7 +17,7 @@ export default function ConfidentialitePage() {
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
           <div className="grid grid-cols-1 gap-x-8 gap-y-16 lg:grid-cols-2">
             <div className="flex flex-col justify-center">
-              <h3 className="text-2xl font-bold tracking-tight text-gray-900">Collecte d'Informations</h3>
+              <h3 className="text-2xl font-bold tracking-tight text-gray-900">Collecte d&apos;Informations</h3>
               <p className="mt-4 text-lg leading-8 text-gray-600">
                 Nous collectons des informations lorsque vous utilisez notre site web, remplissez un formulaire ou nous contactez directement. Cela peut inclure votre nom, adresse e-mail, numéro de téléphone et toute autre information que vous choisissez de nous fournir.
               </p>

@@ -8,7 +8,7 @@ export default function AboutUsPage() {
         <div className="mx-auto max-w-2xl lg:text-center">
           <h2 className="text-base font-semibold leading-7 text-az-blue">Notre Entreprise</h2>
           <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            À Propos d'AZ Consult
+            À Propos d&apos;AZ Consult
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
             AZ Consult est une entreprise innovante spécialisée dans la conception et la fabrication de solutions métalliques sur mesure. Forts de notre expertise et de notre engagement envers la qualité, nous accompagnons nos clients dans la réalisation de leurs projets les plus ambitieux.
@@ -19,7 +19,7 @@ export default function AboutUsPage() {
             <div className="flex flex-col justify-center">
               <h3 className="text-2xl font-bold tracking-tight text-gray-900">Notre Mission</h3>
               <p className="mt-4 text-lg leading-8 text-gray-600">
-                Offrir des solutions industrielles et de design innovantes, durables et esthétiques, en mettant l'accent sur la précision, la personnalisation et la satisfaction client.
+                Offrir des solutions industrielles et de design innovantes, durables et esthétiques, en mettant l&apos;accent sur la précision, la personnalisation et la satisfaction client.
               </p>
               <h3 className="mt-8 text-2xl font-bold tracking-tight text-gray-900">Nos Valeurs</h3>
               <p className="mt-4 text-lg leading-8 text-gray-600">

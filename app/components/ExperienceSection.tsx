@@ -1,7 +1,7 @@
 const stats = [
   {
     id: 1,
-    name: 'Années d\'expérience',
+    name: 'Années d&apos;expérience',
     value: '20+'
   },
   {
@@ -23,10 +23,10 @@ export default function ExperienceSection() {
         <div className="mx-auto max-w-2xl lg:text-center">
           <h2 className="text-base font-semibold leading-7 text-az-blue">Notre Expertise</h2>
           <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            20 ans d\'expérience au service de vos projets
+            20 ans d&apos;expérience au service de vos projets
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Forts de deux décennies d\'expertise dans le domaine de la métallurgie et de la conception sur mesure, nous mettons notre savoir-faire unique à votre disposition pour des réalisations d\'exception.
+            Forts de deux décennies d&apos;expertise dans le domaine de la métallurgie et de la conception sur mesure, nous mettons notre savoir-faire unique à votre disposition pour des réalisations d&apos;exception.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24">

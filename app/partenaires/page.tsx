@@ -11,7 +11,7 @@ export default function PartenairesPage() {
             Nos Partenaires Stratégiques
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Chez AZ Consult, nous croyons en la force des collaborations. Nous sommes fiers de travailler avec des partenaires de confiance qui partagent notre vision de l'excellence et de l'innovation.
+            Chez AZ Consult, nous croyons en la force des collaborations. Nous sommes fiers de travailler avec des partenaires de confiance qui partagent notre vision de l&apos;excellence et de l&apos;innovation.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -19,7 +19,7 @@ export default function PartenairesPage() {
             <div className="flex flex-col justify-center">
               <h3 className="text-2xl font-bold tracking-tight text-gray-900">Collaborations Fructueuses</h3>
               <p className="mt-4 text-lg leading-8 text-gray-600">
-                Nos partenariats nous permettent d'élargir notre offre de services, d'intégrer des technologies de pointe et de garantir des solutions complètes et performantes à nos clients.
+                Nos partenariats nous permettent d&apos;élargir notre offre de services, d&apos;intégrer des technologies de pointe et de garantir des solutions complètes et performantes à nos clients.
               </p>
               <h3 className="mt-8 text-2xl font-bold tracking-tight text-gray-900">Devenir Partenaire</h3>
               <p className="mt-4 text-lg leading-8 text-gray-600">

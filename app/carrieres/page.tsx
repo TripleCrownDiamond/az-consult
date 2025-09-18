@@ -11,7 +11,7 @@ export default function CarrieresPage() {
             Carrières chez AZ Consult
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Rejoignez une équipe dynamique et innovante. Chez AZ Consult, nous valorisons le talent, la créativité et l'engagement. Découvrez nos opportunités de carrière et construisez votre avenir avec nous.
+            Rejoignez une équipe dynamique et innovante. Chez AZ Consult, nous valorisons le talent, la créativité et l&apos;engagement. Découvrez nos opportunités de carrière et construisez votre avenir avec nous.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
